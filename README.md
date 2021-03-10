@@ -13,3 +13,4 @@
 <li>- [x] Rozsvícení LEDky podle vybrané barvy</li>
 <li>- [x] Creeper detector</li>
 <li>- [ ] LED Indikátor životů</li>
+
