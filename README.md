@@ -8,5 +8,5 @@
 <li> Arduino MEGA</li>
 
 <h1>Progres:</h1> 
-<li style="content: '✔';">lolko</li>
+<li content: '✔';>lolko</li>
 
