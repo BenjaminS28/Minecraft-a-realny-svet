@@ -8,5 +8,8 @@
 <li> Arduino MEGA</li>
 
 <h1>Progres:</h1> 
-<li content: '✔';>lolko</li>
-
+[✓] Detonátor TnT
+[✓] Rozpoznávač dne a noci
+[✓] Rozsvícení LEDky podle vybrané barvy
+[✓] Creeper detector
+[]  LED Indikátor životů
