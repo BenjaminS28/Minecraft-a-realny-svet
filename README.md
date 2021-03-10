@@ -12,4 +12,4 @@
 [✓] Rozpoznávač dne a noci
 [✓] Rozsvícení LEDky podle vybrané barvy
 [✓] Creeper detector
--[ ]  LED Indikátor životů
+- [ ] LED Indikátor životů
