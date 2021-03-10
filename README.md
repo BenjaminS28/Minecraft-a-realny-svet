@@ -7,9 +7,9 @@
 <li> Nepájivé pole</li>
 <li> Arduino MEGA</li>
 
-<h1>Progres:</h1> :sparkles:
-[✓] Detonátor TnT
-[✓] Rozpoznávač dne a noci
-[✓] Rozsvícení LEDky podle vybrané barvy
-[✓] Creeper detector
-- [ ] LED Indikátor životů
+<h1>Progres:</h1>
+<li>[✓] Detonátor TnT</li>
+<li>[✓] Rozpoznávač dne a noci</li>
+<li>[✓] Rozsvícení LEDky podle vybrané barvy</li>
+<li>[✓] Creeper detector</li>
+<li>- [ ] LED Indikátor životů</li>
