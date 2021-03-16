@@ -12,5 +12,5 @@
 <li>- [x] Rozpoznávač dne a noci</li>
 <li>- [x] Rozsvícení LEDky podle vybrané barvy</li>
 <li>- [x] Creeper detector</li>
-<li>- [ ] LED Indikátor životů</li>
+<li>- [x] LED Indikátor životů</li>
 
