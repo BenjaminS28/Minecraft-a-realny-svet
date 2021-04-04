@@ -1,4 +1,4 @@
-<h1> Minecraft a reálný svět</h1> 
+<h1>                Minecraft a reálný svět</h1> 
 
 <h2> Arduino - součástky: </h2> 
 <li> LED Diody </li>
@@ -10,7 +10,7 @@
 <li> Joystick</li>
 <li> Arduino MEGA</li>
 
-<h1>Progres:</h1>
+<h2>Progres:</h2>
 <li>- [x] Detonátor TnT</li>
 <li>- [x] Rozpoznávač dne a noci</li>
 <li>- [x] Rozsvícení LEDky podle vybrané barvy</li>
