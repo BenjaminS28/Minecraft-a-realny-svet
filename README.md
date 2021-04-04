@@ -18,5 +18,5 @@
 <li>- [x] LED Indikátor životů</li>
 <li>- [x] Stroj času</li>
 
-<h1>Stránka v2.0:</h1>
+<h2>Stránka v2.0:</h2>
 <p>https://minecraft-a-realny-svet8.webnode.cz</p>
