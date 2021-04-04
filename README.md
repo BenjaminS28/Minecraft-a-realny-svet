@@ -1,5 +1,7 @@
 <h1>-*-*-*-*-*-*-*-*-*-*-*-*-Minecraft a reálný svět-*-*-*-*-*-*-*-*-*-*-*-*-</h1> 
-<p></p>
+<h1></h1>
+<h1></h1>
+<h1></h1>
 <h2>O projektu</h2> 
 <p>Ke svému maturitnímu projektu jsem si vybral Minecraft v reálným světe. Projekt neslouží pouze jako ukázka propojení minecraftu a reálného světa, ale je také využitelný i pro obyčejné minecraft hráče. V tomto projektu nalezneme rozpoznávač dne a noci, creeper detector a mono dalšího funkcí, který určitě oceníte! </p>
 
