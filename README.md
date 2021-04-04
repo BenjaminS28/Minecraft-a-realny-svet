@@ -1,6 +1,6 @@
 <h1> Minecraft a reálný svět</h1> 
 
-<h1> Arduino - součástky: </h1> 
+<h2> Arduino - součástky: </h2> 
 <li> LED Diody </li>
 <li> Tlačítko</li>
 <li> Kabely</li>
