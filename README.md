@@ -25,5 +25,5 @@
 
 <h2>Stránka v2.0:</h2>
 <p>https://minecraft-a-realny-svet8.webnode.cz</p>
-
-
+<h2>Vedení projektu:</h2>
+<p>https://trello.com/b/ypRX2zG8/minecraft-a-reálný-svět</p>
