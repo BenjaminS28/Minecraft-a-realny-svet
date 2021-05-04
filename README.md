@@ -23,6 +23,6 @@
 <li>- [x] Stroj času</li>
 
 <h2>Stránka v2.0:</h2>
-<p>minecraft-a-realny-svet8.webnode.cz/</p>
+<p>https://minecraft-a-realny-svet8.webnode.cz/</p>
 <h2>Vedení projektu:</h2>
 <p>https://trello.com/b/ypRX2zG8/minecraft-a-reálný-svět</p>
