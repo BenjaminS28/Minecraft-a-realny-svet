@@ -27,4 +27,3 @@
 <p>https://minecraft-a-realny-svet8.webnode.cz</p>
 
 
-https://www.thingiverse.com/thing:595467
