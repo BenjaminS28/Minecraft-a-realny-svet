@@ -26,3 +26,5 @@
 <p>https://minecraft-a-realny-svet8.webnode.cz/</p>
 <h2>Vedení projektu:</h2>
 <p>https://trello.com/b/ypRX2zG8/minecraft-a-reálný-svět</p>
+<h2>Video:</h2>
+<p>https://youtu.be/CyK31I2Eu9o</p>
